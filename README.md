@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yvk49" alt="yvk49" /></a> </p>
 
-- 🔭 I’m currently working on **amazon's CS-assistant, an ai based accounting system, skillDNA**
+currently learning **data science / machine learning**
+Ask me about **python, web development, api integrations**
 
-- 🌱 I’m currently learning **data science / machine learning**
+How to reach me **vamshikrishna8330@gmail.com*
 
-- 💬 Ask me about **python, web development, api integrations**
-
-- 📫 How to reach me **vamshikrishna8330@gmail.com**
-
-- ⚡ Fun fact **I’m building SkillDNA on a laptop that’s begging for retirement.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
