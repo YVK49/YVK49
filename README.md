@@ -1,27 +1,32 @@
-<h1 align="center">Hi 👋, I'm YAMSANI VAMSHI KRISHNA</h1>
-<h3 align="center">Building real-world products with Python, Django & AI</h3>
+# YAMSANI VAMSHI KRISHNA | Backend Architect & System Designer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yvk49&label=Profile%20views&color=0e75b6&style=flat" alt="yvk49" /> </p>
+> Engineering scalable Python/Django systems at the intersection of Mathematical Logic and AI.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yvk49" alt="yvk49" /></a> </p>
+## Engineered Solutions
 
-currently learning **data science / machine learning**
-Ask me about **python, web development, api integrations**
+**Automated Accounting Engine**
+Developed a high-integrity financial processing system featuring **OCR data extraction pipelines** and **Tally XML synchronization**. Implemented **SHA-256 hash-chained audit logs** and an automated accrual engine for GAAP-compliant financial reporting.
 
-How to reach me **vamshikrishna8330@gmail.com*
+**Eyewear VTO Platform**
+Architected a modular monolith e-commerce system with integrated **Virtual Try-On (VTO)** capabilities. Engineered custom **Pupillary Distance (PD) measurement logic** and optimized high-performance RESTful APIs for seamless frontend integration.
 
+**Psychological Pattern Tracker**
+Designed an AI-enhanced behavioral analysis platform utilizing **Data Science methodologies** within a Django framework. Implemented **real-time engagement tracking** and automated notification systems to bridge communication gaps through data-driven insights.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yamsani vamshi krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yamsani vamshi krishna" height="30" width="40" /></a>
-<a href="https://instagram.com/vk.yamsani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vk.yamsani" height="30" width="40" /></a>
+## The Logic Stack
+
+| Language & Frameworks | Data & Infrastructure | Mathematics & AI |
+| :--- | :--- | :--- |
+| **Python**, **Django**, **DRF** | **PostgreSQL**, **SQLite**, **Redis** | **Mathematical Logic**, **OCR** |
+| **JavaScript**, **React**, **Node.js** | **Docker**, **Nginx**, **AWS** | **Pattern Recognition**, **NLP** |
+
+## Education & Research
+
+**B.Sc. in Mathematics, Physics, and Computer Science**
+Leveraging a strong foundation in **Mathematical Logic** and **Computational Physics** to design optimized algorithms and high-concurrency system architectures. My academic background serves as a competitive advantage in solving complex backend bottlenecks and ensuring data integrity.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YVK49&theme=dark&hide_border=true&background=0D1117" alt="YVK49 GitHub Streak" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yvk49&show_icons=true&locale=en&layout=compact" alt="yvk49" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yvk49&show_icons=true&locale=en" alt="yvk49" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yvk49&" alt="yvk49" /></p>
