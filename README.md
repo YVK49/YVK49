@@ -13,9 +13,6 @@ Developed a modular monolith e-commerce system optimized for high-precision eyew
 **The Journal (Data Engine)**
 Engineered a behavioral pattern detection platform that transforms subjective psychological inputs into objective, actionable data. Focused on building a high-performance **data engine** capable of real-time pattern recognition and automated insight generation within a Django framework.
 
-**Django Speed Tracker**
-Developed a custom **performance monitoring middleware** designed for real-time bottleneck identification. This tool provides granular visibility into database query latency and middleware execution time, enabling rapid optimization of critical backend paths.
-
 ## Design Thinking
 
 *   **Schema Integrity:** Prioritizing strict database normalization and **SHA-256 hash-chained logs** to ensure absolute data immutability and auditability.
@@ -27,7 +24,7 @@ Developed a custom **performance monitoring middleware** designed for real-time 
 | Logic | Infrastructure | Specialized |
 | :--- | :--- | :--- |
 | **Python**, **Django**, **DRF** | **PostgreSQL**, **Docker**, **AWS** | **Mathematical Logic**, **OCR** |
-| **Node.js**, **FastAPI**, **Redis** | **Nginx**, **CI/CD**, **Linux** | **Pattern Recognition**, **ML** |
+| **React.js**, **REST-API**, **Redis** | **Nginx**, **CI/CD** |
 
 ---
 
