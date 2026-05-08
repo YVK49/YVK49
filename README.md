@@ -1,29 +1,33 @@
-# YAMSANI VAMSHI KRISHNA | Backend Architect & System Designer
+# YAMSANI VAMSHI KRISHNA | Backend Architect & Systems Engineer
 
-> Engineering scalable Python/Django systems at the intersection of Mathematical Logic and AI.
+Transforming complex business bottlenecks into predictable, logic-driven backend architectures.
 
 ## Engineered Solutions
 
-**Automated Accounting Engine**
-Developed a high-integrity financial processing system featuring **OCR data extraction pipelines** and **Tally XML synchronization**. Implemented **SHA-256 hash-chained audit logs** and an automated accrual engine for GAAP-compliant financial reporting.
+**AI Financial Engine**
+Architected a high-integrity financial processing system that bridges the gap between AI-driven data extraction and legacy finance. Engineered a robust **OCR pipeline** for automated document ingestion and a custom **Tally XML synchronization logic** to ensure seamless data portability and GAAP compliance.
 
 **Eyewear VTO Platform**
-Architected a modular monolith e-commerce system with integrated **Virtual Try-On (VTO)** capabilities. Engineered custom **Pupillary Distance (PD) measurement logic** and optimized high-performance RESTful APIs for seamless frontend integration.
+Developed a modular monolith e-commerce system optimized for high-precision eyewear retail. Implemented the core **Pupillary Distance (PD) measurement logic**, leveraging mathematical precision to ensure accurate virtual fittings, and designed a scalable API architecture to handle high-concurrency traffic.
 
-**Psychological Pattern Tracker**
-Designed an AI-enhanced behavioral analysis platform utilizing **Data Science methodologies** within a Django framework. Implemented **real-time engagement tracking** and automated notification systems to bridge communication gaps through data-driven insights.
+**The Journal (Data Engine)**
+Engineered a behavioral pattern detection platform that transforms subjective psychological inputs into objective, actionable data. Focused on building a high-performance **data engine** capable of real-time pattern recognition and automated insight generation within a Django framework.
 
-## The Logic Stack
+**Django Speed Tracker**
+Developed a custom **performance monitoring middleware** designed for real-time bottleneck identification. This tool provides granular visibility into database query latency and middleware execution time, enabling rapid optimization of critical backend paths.
 
-| Language & Frameworks | Data & Infrastructure | Mathematics & AI |
+## Design Thinking
+
+*   **Schema Integrity:** Prioritizing strict database normalization and **SHA-256 hash-chained logs** to ensure absolute data immutability and auditability.
+*   **Algorithmic Foundation:** Leveraging a deep background in **Mathematics and Physics** to solve complex optimization problems and design efficient system architectures.
+*   **Efficiency:** Building lightweight, **async-ready backends** that minimize operational overhead and maximize resource utilization.
+
+## Technical Stack
+
+| Logic | Infrastructure | Specialized |
 | :--- | :--- | :--- |
-| **Python**, **Django**, **DRF** | **PostgreSQL**, **SQLite**, **Redis** | **Mathematical Logic**, **OCR** |
-| **JavaScript**, **React**, **Node.js** | **Docker**, **Nginx**, **AWS** | **Pattern Recognition**, **NLP** |
-
-## Education & Research
-
-**B.Sc. in Mathematics, Physics, and Computer Science**
-Leveraging a strong foundation in **Mathematical Logic** and **Computational Physics** to design optimized algorithms and high-concurrency system architectures. My academic background serves as a competitive advantage in solving complex backend bottlenecks and ensuring data integrity.
+| **Python**, **Django**, **DRF** | **PostgreSQL**, **Docker**, **AWS** | **Mathematical Logic**, **OCR** |
+| **Node.js**, **FastAPI**, **Redis** | **Nginx**, **CI/CD**, **Linux** | **Pattern Recognition**, **ML** |
 
 ---
 
